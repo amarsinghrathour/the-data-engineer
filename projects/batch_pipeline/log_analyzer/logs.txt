@@ -1,0 +1,7 @@
+INFO User logged in
+ERROR Payment failed
+INFO Order placed
+WARNING Disk space low
+ERROR Database timeout
+INFO User logged out
+ERROR Payment failed

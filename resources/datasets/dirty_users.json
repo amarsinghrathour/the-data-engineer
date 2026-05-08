@@ -1,0 +1,7 @@
+[
+  {"id": 1, "email": "valid@test.com"},
+  {"id": 2, "email": null},
+  {"id": 3, "email": "invalid-email"},
+  {"id": null, "email": "missingid@test.com"},
+  {"id": 1, "email": "duplicate@test.com"}
+]

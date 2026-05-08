@@ -1,0 +1,6 @@
+pandas
+requests
+jupyter
+notebook
+psycopg2-binary
+pyspark

@@ -1,0 +1,6 @@
+id,user_id,amount,category
+1,1,100,Electronics
+2,2,200,Fashion
+3,3,300,Electronics
+4,1,400,Fashion
+5,2,500,Electronics
